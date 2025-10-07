@@ -17,4 +17,4 @@ Key Insights
 
 Skills & Tools
 
-Python • SQL • Excel • Power BI • Data Visualization • Storytelling with Data
+SQL • Excel • Power BI • Data Visualization • Storytelling with Data
